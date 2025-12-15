@@ -24,7 +24,11 @@ const messages: {[language: string]: {[message_id: string]: string}} = {
   pl: messages_pl,
   ru: messages_ru,
 };
-const language = navigator.language && navigator.language.split(/[-_]/)[0];
+
+//const language = navigator.language && navigator.language.split(/[-_]/)[0];
+
+// Assuming 'currentLocale' is determined elsewhere (e.g., from user settings or browser)
+const language = 'en';
 
 const browser = detect();
 
@@ -40,7 +44,7 @@ if (browser && browser.name === 'ie') {
   );
 } else {
   root.render(
-    <IntlProvider locale={language} messages={messages[language]}>
+    <IntlProvider locale={language} messages={messages[language]} defaultLocale='en'>
       <MediaContextProvider>
         <style>{mediaStyles}</style>
         <Router>

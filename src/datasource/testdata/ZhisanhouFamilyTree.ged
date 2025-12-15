@@ -1,0 +1,2983 @@
+0 HEAD
+1 SUBM @SUBM1@
+1 SOUR Ancestry.com Family Trees
+2 NAME Ancestry.com Member Trees
+2 VERS 2025.08
+2 _TREE Zhisanhou Family Tree
+3 RIN 80252657
+3 NOTE Sanhou Zhi's Family Tree
+3 _ENV prd
+2 CORP Ancestry.com
+3 PHON 801-705-7000
+3 WWW www.ancestry.com
+3 ADDR 1300 West Traverse Parkway
+4 CONT Lehi, UT  84043
+4 CONT USA
+1 DATE 15 Dec 2025
+2 TIME 19:13:36
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @SUBM1@ SUBM
+1 NAME Ancestry.com Member Trees Submitter
+0 @I44418031524@ INDI
+1 NAME Sanhou /Zhi/ 三后
+2 GIVN Sanhou
+2 SURN Zhi
+2 NSFX 三后
+1 SEX M
+1 FAMC @F27@
+1 FAMS @F48@
+1 BIRT
+2 DATE 25,11,1971
+2 PLAC Linfen, Linfen Shi, Shanxi, China
+1 OBJE @O60@
+2 _PRIM Y
+1 OBJE @O25@
+1 OBJE @O69@
+1 OBJE @O23@
+0 @I44418031525@ INDI
+1 NAME Yunlong /Zhi/ 云龙
+2 GIVN Yunlong
+2 SURN Zhi
+2 NSFX 云龙
+1 SEX M
+1 FAMC @F8@
+1 FAMS @F27@
+1 BIRT
+2 DATE 08,11,1936
+2 PLAC Linfen, Shanxi, China
+1 OBJE @O35@
+2 _PRIM Y
+1 OBJE @O67@
+0 @I44418031904@ INDI
+1 NAME Qianjin /Lu/ 儒人(千斤)
+2 GIVN Qianjin
+2 SURN Lu
+2 NSFX 儒人(千斤)
+1 SEX F
+1 FAMC @F31@
+1 FAMS @F27@
+1 BIRT
+2 DATE 08,06,1939
+2 PLAC Linfen, Shanxi, China
+1 DEAT
+2 DATE 17,01,2014
+2 PLAC Linfen, Shanxi, China
+1 OBJE @O26@
+2 _PRIM Y
+1 OBJE @O57@
+1 OBJE @O34@
+1 OBJE @O42@
+1 OBJE @O47@
+0 @I44418032094@ INDI
+1 NAME Hongjie /Zhi/ 鴻傑
+2 GIVN Hongjie
+2 SURN Zhi
+2 NSFX 鴻傑
+1 SEX M
+1 FAMC @F20@
+1 FAMS @F8@
+1 BIRT
+2 DATE 07/01/1892
+2 PLAC Yuhua, Fuquan, Guizhou, China
+1 DEAT
+2 DATE 05/06/1967
+1 OBJE @O6@
+2 _PRIM Y
+0 @I44418032133@ INDI
+1 NAME Dalv /Zhang/ 张大女
+2 GIVN Dalv
+2 SURN Zhang
+2 NSFX 张大女
+1 SEX F
+1 FAMC @F30@
+1 FAMS @F8@
+1 BIRT
+2 DATE 19/1/1905
+2 PLAC Zhengzhou Shiqu, Henan, China
+1 OBJE @O51@
+2 _PRIM Y
+0 @I44436300518@ INDI
+1 NAME dizhu /Lu/
+2 GIVN dizhu
+2 SURN Lu
+1 SEX M
+1 FAMC @F49@
+1 FAMS @F5@
+1 FAMS @F31@
+1 BIRT
+2 DATE 25/05/1925
+2 PLAC Taiyuan, Taiyuan Shiqu, Shanxi, China
+1 DEAT
+2 DATE 25/06/1990
+2 PLAC Linfen, Shanxi, China
+0 @I44436301349@ INDI
+1 NAME cun people /Li/ 李村人
+2 GIVN cun people
+2 SURN Li
+2 NSFX 李村人
+1 SEX F
+1 FAMS @F31@
+1 BIRT
+2 DATE 02/02/1920
+2 PLAC Houma, Wenxi, Shanxi, China
+1 DEAT
+2 DATE 09/09/1990
+0 @I44436301453@ INDI
+1 NAME Zesheng /Zhi/ 泽恒
+2 GIVN Zesheng
+2 SURN Zhi
+2 NSFX 泽恒
+1 SEX M
+1 FAMC @F27@
+1 FAMS @F19@
+1 BIRT
+2 DATE 06/04/1964
+2 PLAC Beijing, Beijing Shiqu, Beijing, China
+1 OBJE @O29@
+2 _PRIM Y
+0 @I44436301568@ INDI
+1 NAME Fuling /Zhi/ 福灵
+2 GIVN Fuling
+2 SURN Zhi
+2 NSFX 福灵
+1 SEX F
+1 FAMC @F27@
+1 FAMS @F16@
+1 BIRT
+2 DATE 06/07/1967
+2 PLAC Xi'an, Xi An Shiqu, Shaanxi, China
+1 OBJE @O80@
+2 _PRIM Y
+1 OBJE @O82@
+0 @I44436301888@ INDI
+1 NAME Leyan /Zhi/ 乐妍
+2 GIVN Leyan
+2 SURN Zhi
+2 NSFX 乐妍
+1 SEX F
+1 FAMC @F48@
+1 BIRT
+2 DATE 06/07/2006
+2 PLAC Dongguan, Dongguan, Guangdong, China
+1 OBJE @O61@
+2 _PRIM Y
+1 OBJE @O9@
+1 OBJE @O37@
+1 OBJE @O59@
+1 OBJE @O26@
+1 OBJE @O78@
+0 @I44436301965@ INDI
+1 NAME Demao /zhi/ 德茂
+2 GIVN Demao
+2 SURN zhi
+2 NSFX 德茂
+1 SEX M
+1 FAMC @F24@
+1 FAMS @F20@
+1 BIRT
+2 DATE 7/6/1867
+1 OBJE @O27@
+2 _PRIM Y
+1 OBJE @O18@
+0 @I44436302065@ INDI
+1 NAME Sanhong /Cao/ 三红
+2 GIVN Sanhong
+2 SURN Cao
+2 NSFX 三红
+1 SEX M
+1 FAMS @F16@
+1 BIRT
+2 DATE 06/05/1965
+2 PLAC Yuncheng, Yuncheng, Shanxi, China
+1 OBJE @O10@
+2 _PRIM Y
+0 @I44436302137@ INDI
+1 NAME Dawei /Cao/ 大伟
+2 GIVN Dawei
+2 SURN Cao
+2 NSFX 大伟
+1 SEX M
+1 FAMC @F16@
+1 BIRT
+2 DATE 09/09/1992
+2 PLAC Gaoping, Gaoping, Shanxi, China
+1 OBJE @O5@
+2 _PRIM Y
+1 OBJE @O20@
+1 OBJE @O79@
+1 OBJE @O77@
+1 OBJE @O55@
+1 OBJE @O11@
+0 @I44436302156@ INDI
+1 NAME Xiaowei /Cao/ 晓薇
+2 GIVN Xiaowei
+2 SURN Cao
+2 NSFX 晓薇
+1 SEX F
+1 FAMC @F16@
+1 BIRT
+2 DATE 09/05/1995
+1 OBJE @O46@
+2 _PRIM Y
+1 OBJE @O77@
+1 OBJE @O33@
+0 @I44436302176@ INDI
+1 NAME Beitou /Cui/ 四柱北头
+2 GIVN Beitou
+2 SURN Cui
+2 NSFX 四柱北头
+1 SEX F
+1 FAMC @F51@
+1 FAMS @F20@
+1 BIRT
+2 DATE 27/9/1870
+1 OBJE @O13@
+2 _PRIM Y
+0 @I44442726196@ INDI
+1 NAME 勇灵 /Zhi/
+2 GIVN 勇灵
+2 SURN Zhi
+1 SEX M
+1 FAMC @F27@
+1 FAMS @F14@
+1 BIRT
+2 DATE 03/07/1973
+2 PLAC Beijing, Beijing Shiqu, Beijing, China
+1 OBJE @O1@
+2 _PRIM Y
+1 OBJE @O40@
+1 OBJE @O65@
+1 OBJE @O84@
+1 OBJE @O28@
+0 @I44442726388@ INDI
+1 NAME Yuning /Zhi/ 玉宁
+2 GIVN Yuning
+2 SURN Zhi
+2 NSFX 玉宁
+1 SEX M
+1 FAMC @F14@
+1 BIRT
+2 DATE 08/09/1998
+2 PLAC Xiangfen, Shanxi, China
+1 OBJE @O54@
+2 _PRIM Y
+1 OBJE @O40@
+1 OBJE @O78@
+1 OBJE @O24@
+1 OBJE @O67@
+0 @I44442726408@ INDI
+1 NAME Xiaoning /Zhi/ 小宁
+2 GIVN Xiaoning
+2 SURN Zhi
+2 NSFX 小宁
+1 SEX M
+1 FAMC @F14@
+1 BIRT
+2 DATE 09/09/2002
+2 NOTE xiao ning's description
+1 OBJE @O52@
+2 _PRIM Y
+1 OBJE @O62@
+1 OBJE @O76@
+1 OBJE @O67@
+0 @I44442728801@ INDI
+1 NAME Yan /Zhang/
+2 GIVN Yan
+2 SURN Zhang
+1 SEX F
+1 FAMC @F23@
+1 FAMS @F14@
+1 BIRT
+2 DATE 05/07/1975
+2 PLAC Xiangfen, Shanxi, China
+1 EMAIL zhangyan@@163.com
+2 DATE 02/02/2002
+1 EVEN
+2 TYPE Seperate with parents
+2 DATE 03/02/2003
+2 PLAC Xiangfen, Shanxi, China
+2 NOTE divide two family with parents
+1 _WLNK
+2 TITL netease company
+2 NOTE http://www.163.com
+1 OBJE @O30@
+2 _PRIM Y
+1 OBJE @O66@
+1 OBJE @O73@
+1 OBJE @O68@
+1 OBJE @O38@
+0 @I44444879734@ INDI
+1 NAME Bailing /Zhi/ 白灵
+2 GIVN Bailing
+2 SURN Zhi
+2 NSFX 白灵
+1 SEX M
+1 FAMC @F27@
+1 FAMS @F40@
+1 BIRT
+2 DATE 06/06/1960
+2 PLAC Xi'an, Xi An Shiqu, Shaanxi, China
+1 DEAT
+2 DATE 1/12/2013
+2 PLAC Xiangfen, Shanxi, China
+1 OBJE @O16@
+2 _PRIM Y
+1 OBJE @O12@
+0 @I44444880493@ INDI
+1 NAME Xiaomei /zhi/ 小妹
+2 GIVN Xiaomei
+2 SURN zhi
+2 NSFX 小妹
+1 SEX F
+1 FAMC @F8@
+1 BIRT
+2 DATE 4/4/1945
+2 PLAC Xiangfen, Shanxi, China
+1 DEAT
+2 DATE 2/2/1995
+1 OBJE @O14@
+2 _PRIM Y
+1 OBJE @O70@
+0 @I44444880632@ INDI
+1 NAME crazy /Lu/
+2 GIVN crazy
+2 SURN Lu
+1 SEX F
+1 FAMC @F31@
+1 BIRT
+2 DATE 1/4/1948
+0 @I44444880716@ INDI
+1 NAME xinmin /Lu/ 新民
+2 GIVN xinmin
+2 SURN Lu
+2 NSFX 新民
+1 SEX M
+1 FAMC @F31@
+1 FAMS @F12@
+1 FAMS @F39@
+1 BIRT
+2 DATE 4/6/1946
+1 OBJE @O81@
+2 _PRIM Y
+1 OBJE @O49@
+0 @I44466999787@ INDI
+1 NAME Guofeng /zhi/
+2 GIVN Guofeng
+2 SURN zhi
+1 SEX M
+1 FAMC @F40@
+1 FAMS @F1@
+1 BIRT
+2 DATE 02/09/1984
+1 OBJE @O83@
+2 _PRIM Y
+1 OBJE @O39@
+0 @I44466999930@ INDI
+1 NAME Yingzi /Zhang/
+2 GIVN Yingzi
+2 SURN Zhang
+1 SEX F
+1 FAMS @F1@
+1 BIRT
+2 DATE 8/8/1988
+0 @I44467000088@ INDI
+1 NAME Huihan /zhi/
+2 GIVN Huihan
+2 SURN zhi
+1 SEX U
+1 FAMC @F1@
+1 BIRT
+2 DATE 10/10/2010
+0 @I44467000192@ INDI
+1 NAME Shuangshuang /Chen/
+2 GIVN Shuangshuang
+2 SURN Chen
+1 SEX F
+1 FAMC @F13@
+1 FAMS @F40@
+1 BIRT
+2 DATE 01/06/1963
+0 @I44467000550@ INDI
+1 NAME 2wa /Zhi/ 2娃
+2 GIVN 2wa
+2 SURN Zhi
+2 NSFX 2娃
+1 SEX M
+1 FAMC @F20@
+1 BIRT
+2 DATE 09/04/1894
+1 DEAT
+2 DATE 01/02/1912
+1 OBJE @O58@
+2 _PRIM Y
+0 @I44467516755@ INDI
+1 NAME Hongru /Zhang/
+2 GIVN Hongru
+2 SURN Zhang
+1 SEX M
+1 FAMC @F43@
+1 FAMS @F23@
+1 BIRT
+2 DATE 09/05/1950
+0 @I44468288413@ INDI
+1 NAME hucun /Chen/
+2 GIVN hucun
+2 SURN Chen
+1 SEX M
+1 FAMS @F13@
+1 BIRT
+2 DATE 04/05/1945
+0 @I44468288430@ INDI
+1 NAME shungpin /Liu/
+2 GIVN shungpin
+2 SURN Liu
+1 SEX F
+1 FAMS @F13@
+1 BIRT
+2 DATE 04/09/1949
+0 @I44468288548@ INDI
+1 NAME Dajie /Zhi/
+2 GIVN Dajie
+2 SURN Zhi
+1 SEX F
+1 FAMC @F8@
+1 FAMS @F10@
+1 BIRT
+2 DATE 03/04/1934
+1 DEAT
+2 DATE 08/07/1987
+1 OBJE @O53@
+2 _PRIM Y
+0 @I44468290029@ INDI
+1 NAME yanzu1 /Zhang/
+2 GIVN yanzu1
+2 SURN Zhang
+1 SEX M
+1 FAMS @F43@
+1 BIRT
+2 DATE 02/08/1928
+1 DEAT
+2 DATE 03/01/2013
+0 @I44468290127@ INDI
+1 NAME tucun /hu/
+2 GIVN tucun
+2 SURN hu
+1 SEX F
+1 FAMS @F23@
+1 BIRT
+2 DATE 04/09/1949
+0 @I44468290164@ INDI
+1 NAME xiaodi1 /Zhang/
+2 GIVN xiaodi1
+2 SURN Zhang
+1 SEX M
+1 FAMC @F23@
+1 BIRT
+2 DATE 08/01/1980
+0 @I44468290653@ INDI
+1 NAME Hongjing /Zhi/ 鴻儆
+2 GIVN Hongjing
+2 SURN Zhi
+2 NSFX 鴻儆
+1 SEX M
+1 FAMC @F20@
+1 FAMS @F6@
+1 BIRT
+2 DATE 09/08/1898
+1 DEAT
+2 DATE 08/05/1958
+1 OBJE @O45@
+2 _PRIM Y
+0 @I44468290733@ INDI
+1 NAME Shengfu /Zhi/ 生福
+2 GIVN Shengfu
+2 SURN Zhi
+2 NSFX 生福
+1 SEX M
+1 FAMC @F4@
+1 FAMS @F24@
+1 BIRT
+2 DATE 05/02/1809
+1 DEAT
+2 DATE 08/05/1885
+1 OBJE @O43@
+2 _PRIM Y
+0 @I44468290766@ INDI
+1 NAME shixxx /Guo/ 郭氏
+2 GIVN shixxx
+2 SURN Guo
+2 NSFX 郭氏
+1 SEX F
+1 FAMS @F24@
+1 OBJE @O44@
+2 _PRIM Y
+0 @I44468291703@ INDI
+1 NAME Cun /Lee/
+2 GIVN Cun
+2 SURN Lee
+1 SEX F
+1 FAMS @F39@
+1 BIRT
+2 DATE 04/09/1949
+1 OBJE @O19@
+2 _PRIM Y
+1 OBJE @O49@
+0 @I44468291772@ INDI
+1 NAME gaozhong /Lu/ 高中
+2 GIVN gaozhong
+2 SURN Lu
+2 NSFX 高中
+1 SEX M
+1 FAMC @F12@
+1 FAMC @F39@
+1 FAMS @F29@
+1 BIRT
+2 DATE 07/01/1973
+0 @I44468292995@ INDI
+1 NAME Bigone /Lu/
+2 GIVN Bigone
+2 SURN Lu
+1 SEX F
+1 FAMC @F29@
+0 @I44468293101@ INDI
+1 NAME xiaoxiao /Lu/
+2 GIVN xiaoxiao
+2 SURN Lu
+1 SEX F
+1 FAMC @F12@
+1 FAMS @F33@
+1 BIRT
+2 DATE 8/3/1987
+1 OBJE @O63@
+2 _PRIM Y
+0 @I44468298890@ INDI
+1 NAME Yonghui /Zhi/ 永惠
+2 GIVN Yonghui
+2 SURN Zhi
+2 NSFX 永惠
+1 SEX M
+1 FAMC @F37@
+1 FAMS @F4@
+1 BIRT
+2 DATE 08/05/1785
+1 DEAT
+2 DATE 04/05/1845
+1 OBJE @O21@
+2 _PRIM Y
+0 @I44468298958@ INDI
+1 NAME shixxxx /Yang/ 杨氏
+2 GIVN shixxxx
+2 SURN Yang
+2 NSFX 杨氏
+1 SEX F
+1 FAMS @F4@
+1 BIRT
+2 DATE 08/09/1789
+1 DEAT
+2 DATE 05/05/1850
+1 OBJE @O17@
+2 _PRIM Y
+0 @I44468299161@ INDI
+1 NAME Shengrong /Zhi/ 生榮
+2 GIVN Shengrong
+2 SURN Zhi
+2 NSFX 生榮
+1 SEX M
+1 FAMC @F4@
+1 BIRT
+2 DATE 08/03/1813
+1 DEAT
+2 DATE 04/03/1843
+1 OBJE @O3@
+2 _PRIM Y
+0 @I44468299458@ INDI
+1 NAME Baofeng /Zhi/ 保風
+2 GIVN Baofeng
+2 SURN Zhi
+2 NSFX 保風
+1 SEX M
+1 FAMS @F37@
+1 BIRT
+2 DATE 05/01/1750
+1 DEAT
+2 DATE 07/08/1807
+1 OBJE @O75@
+2 _PRIM Y
+0 @I44468299506@ INDI
+1 NAME Baofeng wife /Guo/
+2 GIVN Baofeng wife
+2 SURN Guo
+1 SEX F
+1 FAMS @F37@
+1 OBJE @O85@
+2 _PRIM Y
+1 OBJE @O2@
+1 OBJE @O48@
+0 @I44468299901@ INDI
+1 NAME Yongshou /Zhi/ 永壽
+2 GIVN Yongshou
+2 SURN Zhi
+2 NSFX 永壽
+1 SEX M
+1 FAMC @F37@
+1 FAMS @F42@
+1 OBJE @O41@
+2 _PRIM Y
+0 @I44468300054@ INDI
+1 NAME Yongyuan /Zhi/ 永蒝
+2 GIVN Yongyuan
+2 SURN Zhi
+2 NSFX 永蒝
+1 SEX M
+1 FAMC @F37@
+1 FAMS @F17@
+1 OBJE @O36@
+2 _PRIM Y
+0 @I44469268896@ INDI
+1 NAME xiangling /Yan/ 襄陵男
+2 GIVN xiangling
+2 SURN Yan
+2 NSFX 襄陵男
+1 SEX M
+1 FAMS @F33@
+0 @I44469268973@ INDI
+1 NAME boy1 /Yan/
+2 GIVN boy1
+2 SURN Yan
+1 SEX M
+1 FAMC @F33@
+0 @I44469269029@ INDI
+1 NAME tunli /lu/
+2 GIVN tunli
+2 SURN lu
+1 SEX F
+1 FAMS @F44@
+0 @I44469269181@ INDI
+1 NAME gaoer /Lu/
+2 GIVN gaoer
+2 SURN Lu
+1 SEX M
+1 FAMC @F44@
+1 FAMC @F45@
+0 @I44469269241@ INDI
+1 NAME nver /Lu/
+2 GIVN nver
+2 SURN Lu
+1 SEX F
+1 FAMC @F45@
+0 @I44469269610@ INDI
+1 NAME tunlisgirl /Lu/
+2 GIVN tunlisgirl
+2 SURN Lu
+1 SEX F
+1 FAMS @F45@
+0 @I44469270500@ INDI
+1 NAME littleone /Lu/
+2 GIVN littleone
+2 SURN Lu
+1 SEX U
+1 FAMC @F29@
+0 @I44469270597@ INDI
+1 NAME jiuzhong /Lu/ 九中
+2 GIVN jiuzhong
+2 SURN Lu
+2 NSFX 九中
+1 SEX M
+1 FAMC @F12@
+1 FAMC @F39@
+1 FAMS @F34@
+1 BIRT
+2 DATE 1/07/1970
+1 OBJE @O72@
+2 _PRIM Y
+1 OBJE @O74@
+1 OBJE @O32@
+0 @I44469271080@ INDI
+1 NAME Guowei /Zhi/ 国威
+2 GIVN Guowei
+2 SURN Zhi
+2 NSFX 国威
+1 SEX M
+1 FAMC @F40@
+1 BIRT
+2 DATE 15/09/1993
+0 @I44469271258@ INDI
+1 NAME sister 2 /Chen/
+2 GIVN sister 2
+2 SURN Chen
+1 SEX F
+1 FAMC @F13@
+1 BIRT
+2 DATE 09/06/1960
+0 @I44469275740@ INDI
+1 NAME tunli /lu/ 屯里
+2 GIVN tunli
+2 SURN lu
+2 NSFX 屯里
+1 SEX F
+1 FAMS @F35@
+1 FAMS @F34@
+0 @I44469276570@ INDI
+1 NAME dayi /Lu/
+2 GIVN dayi
+2 SURN Lu
+1 SEX M
+1 FAMC @F34@
+1 FAMC @F35@
+0 @I44469276664@ INDI
+1 NAME nver 1 /Lu/ 收养
+2 GIVN nver 1
+2 SURN Lu
+2 NSFX 收养
+1 SEX F
+1 FAMC @F35@
+0 @I44469276764@ INDI
+1 NAME tunlirelative /Lu/
+2 GIVN tunlirelative
+2 SURN Lu
+1 SEX M
+1 FAMS @F35@
+0 @I44469277078@ INDI
+1 NAME cun people /hu/ 胡村收养
+2 GIVN cun people
+2 SURN hu
+2 NSFX 胡村收养
+1 SEX F
+1 FAMS @F2@
+1 FAMS @F12@
+0 @I44469277208@ INDI
+1 NAME man  /hu/ 胡村男换亲女
+2 GIVN man 
+2 SURN hu
+2 NSFX 胡村男换亲女
+1 SEX M
+1 FAMS @F2@
+0 @I44469461337@ INDI
+1 NAME Laowu /Zhi/ 老五
+2 GIVN Laowu
+2 SURN Zhi
+2 NSFX 老五
+1 SEX M
+1 FAMC @F20@
+1 BIRT
+2 DATE 1/9/1900
+1 DEAT
+2 DATE 1/8/1918
+0 @I44469461393@ INDI
+1 NAME Naogouzi /Zhi/ 鬧狗子
+2 GIVN Naogouzi
+2 SURN Zhi
+2 NSFX 鬧狗子
+1 SEX F
+1 FAMC @F20@
+0 @I44469461464@ INDI
+1 NAME Tunvzi /Zhi/ 禿女子
+2 GIVN Tunvzi
+2 SURN Zhi
+2 NSFX 禿女子
+1 SEX F
+1 FAMC @F20@
+1 BIRT
+2 DATE 9/12/1902
+0 @I44469461587@ INDI
+1 NAME Hongyi /Zhi/ 鴻儀
+2 GIVN Hongyi
+2 SURN Zhi
+2 NSFX 鴻儀
+1 SEX M
+1 FAMC @F20@
+1 FAMS @F47@
+1 BIRT
+2 DATE 28/9/1896
+0 @I44469461915@ INDI
+1 NAME Xiwanger /Unknown/ 西王村
+2 GIVN Xiwanger
+2 SURN Unknown
+2 NSFX 西王村
+1 SEX F
+1 FAMS @F6@
+0 @I44469462023@ INDI
+1 NAME Aiqin /Zhi/ 愛親
+2 GIVN Aiqin
+2 SURN Zhi
+2 NSFX 愛親
+1 SEX F
+1 FAMC @F6@
+1 FAMS @F21@
+1 BIRT
+2 DATE 9/03/1936
+0 @I44469462273@ INDI
+1 NAME Changxing /Zhi/ 長興
+2 GIVN Changxing
+2 SURN Zhi
+2 NSFX 長興
+1 SEX M
+1 FAMS @F21@
+1 BIRT
+2 DATE 3/12/1932
+1 DEAT
+2 DATE 02/1/2010
+0 @I44469462335@ INDI
+1 NAME Dongsheng /Zhi/ 東生
+2 GIVN Dongsheng
+2 SURN Zhi
+2 NSFX 東生
+1 SEX M
+1 FAMC @F21@
+1 FAMS @F25@
+1 BIRT
+2 DATE 06/06/1960
+0 @I44469462618@ INDI
+1 NAME Shunlian /ZHi/ 順蓮
+2 GIVN Shunlian
+2 SURN ZHi
+2 NSFX 順蓮
+1 SEX F
+1 FAMC @F47@
+1 FAMS @F9@
+1 BIRT
+2 DATE 12/2/1939
+1 DEAT
+2 DATE 06/04/2004
+0 @I44469462738@ INDI
+1 NAME Xiashan /Liu/ 下山
+2 GIVN Xiashan
+2 SURN Liu
+2 NSFX 下山
+1 SEX F
+1 FAMS @F25@
+1 BIRT
+2 DATE 9/7/1963
+0 @I44469462843@ INDI
+1 NAME Yafeng /Zhi/ 亞峰
+2 GIVN Yafeng
+2 SURN Zhi
+2 NSFX 亞峰
+1 SEX M
+1 FAMC @F25@
+1 FAMS @F26@
+1 BIRT
+2 DATE 9/8/1983
+0 @I44469462932@ INDI
+1 NAME Yaliang /Zhi/ 亞亮
+2 GIVN Yaliang
+2 SURN Zhi
+2 NSFX 亞亮
+1 SEX M
+1 FAMC @F25@
+1 FAMS @F7@
+1 BIRT
+2 DATE 06/07/1985
+0 @I44469463063@ INDI
+1 NAME shanzhao /zhi/ 招布袋
+2 GIVN shanzhao
+2 SURN zhi
+2 NSFX 招布袋
+1 SEX M
+1 FAMS @F9@
+1 BIRT
+2 DATE 06/04/1943
+1 DEAT
+2 DATE 14/05/1998
+0 @I44469463359@ INDI
+1 NAME Shi xx /Fan/ 翻氏
+2 GIVN Shi xx
+2 SURN Fan
+2 NSFX 翻氏
+1 SEX F
+1 FAMS @F17@
+0 @I44469463415@ INDI
+1 NAME Shi (yongshou) /Liu/ 劉氏
+2 GIVN Shi (yongshou)
+2 SURN Liu
+2 NSFX 劉氏
+1 SEX F
+1 FAMS @F42@
+0 @I44469463444@ INDI
+1 NAME Shengyun /Zhi/ 生云
+2 GIVN Shengyun
+2 SURN Zhi
+2 NSFX 生云
+1 SEX M
+1 FAMC @F42@
+0 @I44469463460@ INDI
+1 NAME Shengcai /Zhi/ 生才
+2 GIVN Shengcai
+2 SURN Zhi
+2 NSFX 生才
+1 SEX M
+1 FAMC @F17@
+1 FAMS @F3@
+0 @I44469463499@ INDI
+1 NAME Shengkui /zhi/ 生魁
+2 GIVN Shengkui
+2 SURN zhi
+2 NSFX 生魁
+1 SEX M
+1 FAMC @F17@
+1 FAMS @F28@
+0 @I44469463583@ INDI
+1 NAME Shi (shengcai) /Xu/ 許氏
+2 GIVN Shi (shengcai)
+2 SURN Xu
+2 NSFX 許氏
+1 SEX F
+1 FAMS @F3@
+0 @I44469463639@ INDI
+1 NAME Dexing /Zhi/ 德興
+2 GIVN Dexing
+2 SURN Zhi
+2 NSFX 德興
+1 SEX M
+1 FAMC @F3@
+1 FAMS @F36@
+0 @I44469463729@ INDI
+1 NAME Shi (shengkui) /Lu/ 蘆氏
+2 GIVN Shi (shengkui)
+2 SURN Lu
+2 NSFX 蘆氏
+1 SEX F
+1 FAMS @F28@
+0 @I44469463811@ INDI
+1 NAME Dewang /Zhi/ 德旺
+2 GIVN Dewang
+2 SURN Zhi
+2 NSFX 德旺
+1 SEX M
+1 FAMC @F28@
+1 FAMS @F22@
+0 @I44469463851@ INDI
+1 NAME Changchun /Zhi/ 長春
+2 GIVN Changchun
+2 SURN Zhi
+2 NSFX 長春
+1 SEX M
+1 FAMC @F36@
+1 FAMS @F32@
+1 FAMS @F50@
+0 @I44469463907@ INDI
+1 NAME Shi (Dexing's wife) /Zhang/ 張氏
+2 GIVN Shi (Dexing's wife)
+2 SURN Zhang
+2 NSFX 張氏
+1 SEX F
+1 FAMS @F36@
+0 @I44469464017@ INDI
+1 NAME Shi (changchun) /Bai/ 白氏
+2 GIVN Shi (changchun)
+2 SURN Bai
+2 NSFX 白氏
+1 SEX F
+1 FAMS @F32@
+0 @I44469464048@ INDI
+1 NAME Quanjia /Zhi/ 全家
+2 GIVN Quanjia
+2 SURN Zhi
+2 NSFX 全家
+1 SEX M
+1 FAMC @F50@
+1 FAMS @F38@
+1 DEAT
+2 DATE 9/10/2009
+0 @I44469464137@ INDI
+1 NAME Cun  /Xue/ 薛村人
+2 GIVN Cun 
+2 SURN Xue
+2 NSFX 薛村人
+1 SEX F
+1 FAMS @F38@
+0 @I44469464185@ INDI
+1 NAME Gaofeng /Zhi/ 高鋒
+2 GIVN Gaofeng
+2 SURN Zhi
+2 NSFX 高鋒
+1 SEX M
+1 FAMC @F38@
+1 FAMS @F11@
+1 BIRT
+2 DATE 9/5/1970
+0 @I44469464201@ INDI
+1 NAME Gaoming /Zhi/ 高命
+2 GIVN Gaoming
+2 SURN Zhi
+2 NSFX 高命
+1 SEX M
+1 FAMC @F38@
+1 FAMS @F15@
+1 BIRT
+2 DATE 5/9/1975
+0 @I44469464359@ INDI
+1 NAME shi (dewang) /xu/ 徐氏
+2 GIVN shi (dewang)
+2 SURN xu
+2 NSFX 徐氏
+1 SEX F
+1 FAMS @F22@
+0 @I44469464443@ INDI
+1 NAME Changde /Zhi/ 長德
+2 GIVN Changde
+2 SURN Zhi
+2 NSFX 長德
+1 SEX M
+1 FAMC @F22@
+0 @I44469464468@ INDI
+1 NAME Changyu /Zhi/ 長玉
+2 GIVN Changyu
+2 SURN Zhi
+2 NSFX 長玉
+1 SEX M
+1 FAMC @F22@
+0 @I44469464495@ INDI
+1 NAME Changfu /Zhi/ 長富
+2 GIVN Changfu
+2 SURN Zhi
+2 NSFX 長富
+1 SEX M
+1 FAMC @F22@
+1 FAMS @F18@
+0 @I44469464580@ INDI
+1 NAME wife(changfu) /unknown/
+2 GIVN wife(changfu)
+2 SURN unknown
+1 SEX F
+1 FAMS @F18@
+0 @I44469464608@ INDI
+1 NAME Heming /Zhi/ 合明
+2 GIVN Heming
+2 SURN Zhi
+2 NSFX 合明
+1 SEX M
+1 FAMC @F18@
+0 @I44469464627@ INDI
+1 NAME Gaiming /Zhi/ 改明
+2 GIVN Gaiming
+2 SURN Zhi
+2 NSFX 改明
+1 SEX U
+1 FAMC @F18@
+0 @I44469464990@ INDI
+1 NAME Xianglin /Zhi/ 祥林
+2 GIVN Xianglin
+2 SURN Zhi
+2 NSFX 祥林
+1 SEX M
+1 FAMC @F9@
+0 @I44469465002@ INDI
+1 NAME Yuxiang /Zhi/ 玉祥
+2 GIVN Yuxiang
+2 SURN Zhi
+2 NSFX 玉祥
+1 SEX M
+1 FAMC @F9@
+0 @I44469465022@ INDI
+1 NAME Zhixiang /Zhi/ 志祥
+2 GIVN Zhixiang
+2 SURN Zhi
+2 NSFX 志祥
+1 SEX M
+1 FAMC @F9@
+0 @I44469557784@ INDI
+1 NAME langquang /Yan/ 浪泉人
+2 GIVN langquang
+2 SURN Yan
+2 NSFX 浪泉人
+1 SEX F
+1 FAMS @F5@
+1 BIRT
+2 DATE 3/5/1935
+1 DEAT
+2 DATE 09/3/1993
+0 @I44470225309@ INDI
+1 NAME tunli (gaozhong) /Du/ 可能是屯裡人
+2 GIVN tunli (gaozhong)
+2 SURN Du
+2 NSFX 可能是屯裡人
+1 SEX F
+1 FAMS @F29@
+1 BIRT
+2 DATE 9/5/1975
+1 DEAT
+2 DATE 5/2/2005
+0 @I44470592029@ INDI
+1 NAME cun peoples /Lu/
+2 GIVN cun peoples
+2 SURN Lu
+1 SEX M
+1 FAMS @F49@
+0 @I44470593267@ INDI
+1 NAME lao er /Lu/
+2 GIVN lao er
+2 SURN Lu
+1 SEX M
+1 FAMC @F49@
+1 BIRT
+2 DATE 2/2/1922
+0 @I44470593356@ INDI
+1 NAME lao san /Lu/ 老三
+2 GIVN lao san
+2 SURN Lu
+2 NSFX 老三
+1 SEX M
+1 FAMC @F49@
+1 BIRT
+2 DATE 2/4/1924
+0 @I44470651679@ INDI
+1 NAME qi cun /Zhang/ 可能是齊村人
+2 GIVN qi cun
+2 SURN Zhang
+2 NSFX 可能是齊村人
+1 SEX M
+1 FAMC @F46@
+1 FAMS @F30@
+0 @I44470651792@ INDI
+1 NAME jin cun er /Huang/ 井村人?!
+2 GIVN jin cun er
+2 SURN Huang
+2 NSFX 井村人?!
+1 SEX F
+1 FAMS @F30@
+0 @I44470651899@ INDI
+1 NAME di yi dai /Zhang/
+2 GIVN di yi dai
+2 SURN Zhang
+1 SEX M
+1 FAMS @F46@
+0 @I44479856752@ INDI
+1 NAME father one /cui/
+2 GIVN father one
+2 SURN cui
+1 SEX M
+1 FAMS @F51@
+0 @I48575254536@ INDI
+1 NAME Pingzhen /Zhi/ 平珍
+2 GIVN Pingzhen
+2 SURN Zhi
+2 NSFX 平珍
+1 SEX F
+1 FAMC @F38@
+1 BIRT
+2 DATE 8/6/1968
+0 @I48575254823@ INDI
+1 NAME Jianzhen /Zhi/ 建珍
+2 GIVN Jianzhen
+2 SURN Zhi
+2 NSFX 建珍
+1 SEX F
+1 FAMC @F38@
+1 FAMS @F41@
+1 BIRT
+2 DATE 3/7/1973
+0 @I48575255080@ INDI
+1 NAME Jianbei /Yan/ 本村北头
+2 GIVN Jianbei
+2 SURN Yan
+2 NSFX 本村北头
+1 SEX M
+1 FAMS @F41@
+1 BIRT
+2 DATE 3/10/1973
+0 @I48575255242@ INDI
+1 NAME xx12 /Unknown/
+2 GIVN xx12
+2 SURN Unknown
+1 SEX F
+1 FAMS @F11@
+0 @I48575255430@ INDI
+1 NAME Yiwa /Zhi/
+2 GIVN Yiwa
+2 SURN Zhi
+1 SEX M
+1 FAMC @F11@
+1 BIRT
+2 DATE 5/2/1992
+0 @I48575255670@ INDI
+1 NAME Unknwonxxyy /Yan/
+2 GIVN Unknwonxxyy
+2 SURN Yan
+1 SEX F
+1 FAMC @F41@
+1 BIRT
+2 DATE 4/9/1994
+0 @I48575255844@ INDI
+1 NAME Yy(Gaoming) /Unknown/
+2 GIVN Yy(Gaoming)
+2 SURN Unknown
+1 SEX F
+1 FAMS @F15@
+0 @I48575255988@ INDI
+1 NAME Gaozhong2 /Zhi/
+2 GIVN Gaozhong2
+2 SURN Zhi
+1 SEX F
+1 FAMC @F15@
+1 BIRT
+2 DATE 5/9/1999
+0 @I48575256435@ INDI
+1 NAME Nvzi /Zhi/
+2 GIVN Nvzi
+2 SURN Zhi
+1 SEX F
+1 FAMC @F11@
+0 @I48575261420@ INDI
+1 NAME Henan /Yu/
+2 GIVN Henan
+2 SURN Yu
+1 SEX F
+1 FAMS @F26@
+1 BIRT
+2 DATE 8/9/1989
+0 @I48575261564@ INDI
+1 NAME Shuangshuang /Zhi/
+2 GIVN Shuangshuang
+2 SURN Zhi
+1 FAMC @F26@
+1 BIRT
+2 DATE 11/1/2011
+0 @I48575261651@ INDI
+1 NAME Beitou /Yan/ 同村
+2 GIVN Beitou
+2 SURN Yan
+2 NSFX 同村
+1 SEX F
+1 FAMS @F7@
+1 BIRT
+2 DATE 7/8/1987
+0 @I48575261746@ INDI
+1 NAME Mingming /Zhi/
+2 GIVN Mingming
+2 SURN Zhi
+1 SEX F
+1 FAMC @F7@
+1 BIRT
+2 DATE 6/5/2005
+0 @I48575262905@ INDI
+1 NAME xiangling /Xu/
+2 GIVN xiangling
+2 SURN Xu
+1 SEX F
+1 FAMS @F19@
+1 BIRT
+2 DATE 6/5/1965
+0 @I48575263043@ INDI
+1 NAME Fengyao /Zhi/ 锋耀
+2 GIVN Fengyao
+2 SURN Zhi
+2 NSFX 锋耀
+1 SEX M
+1 FAMC @F19@
+1 BIRT
+2 DATE 8/9/1992
+0 @I48575263305@ INDI
+1 NAME Liu /Xu/ 嫁与徐刘
+2 GIVN Liu
+2 SURN Xu
+2 NSFX 嫁与徐刘
+1 SEX M
+1 FAMS @F10@
+0 @F1@ FAM
+1 HUSB @I44466999787@
+1 WIFE @I44466999930@
+1 CHIL @I44467000088@
+0 @F2@ FAM
+1 HUSB @I44469277208@
+1 WIFE @I44469277078@
+0 @F3@ FAM
+1 HUSB @I44469463460@
+1 WIFE @I44469463583@
+1 CHIL @I44469463639@
+0 @F4@ FAM
+1 HUSB @I44468298890@
+1 WIFE @I44468298958@
+1 CHIL @I44468290733@
+1 CHIL @I44468299161@
+0 @F5@ FAM
+1 HUSB @I44436300518@
+1 WIFE @I44469557784@
+0 @F6@ FAM
+1 HUSB @I44468290653@
+1 WIFE @I44469461915@
+1 CHIL @I44469462023@
+0 @F7@ FAM
+1 HUSB @I44469462932@
+1 WIFE @I48575261651@
+1 CHIL @I48575261746@
+0 @F8@ FAM
+1 HUSB @I44418032094@
+1 WIFE @I44418032133@
+1 CHIL @I44468288548@
+1 CHIL @I44418031525@
+1 CHIL @I44444880493@
+0 @F9@ FAM
+1 HUSB @I44469463063@
+1 WIFE @I44469462618@
+1 CHIL @I44469465022@
+1 CHIL @I44469465002@
+1 CHIL @I44469464990@
+0 @F10@ FAM
+1 HUSB @I48575263305@
+1 WIFE @I44468288548@
+0 @F11@ FAM
+1 HUSB @I44469464185@
+1 WIFE @I48575255242@
+1 CHIL @I48575255430@
+1 CHIL @I48575256435@
+0 @F12@ FAM
+1 HUSB @I44444880716@
+1 WIFE @I44469277078@
+1 CHIL @I44469270597@
+1 CHIL @I44468291772@
+1 CHIL @I44468293101@
+0 @F13@ FAM
+1 HUSB @I44468288413@
+1 WIFE @I44468288430@
+1 CHIL @I44469271258@
+1 CHIL @I44467000192@
+0 @F14@ FAM
+1 HUSB @I44442726196@
+1 WIFE @I44442728801@
+1 CHIL @I44442726388@
+1 CHIL @I44442726408@
+1 MARR
+2 DATE 07/09/1997
+2 PLAC Xiangfen, Shanxi, China
+2 NOTE Marrried with Br4 zhi. This XML file does not appear to have any style information associated with it. The document tree is shown below
+0 @F15@ FAM
+1 HUSB @I44469464201@
+1 WIFE @I48575255844@
+1 CHIL @I48575255988@
+0 @F16@ FAM
+1 HUSB @I44436302065@
+1 WIFE @I44436301568@
+1 CHIL @I44436302137@
+1 CHIL @I44436302156@
+0 @F17@ FAM
+1 HUSB @I44468300054@
+1 WIFE @I44469463359@
+1 CHIL @I44469463499@
+1 CHIL @I44469463460@
+0 @F18@ FAM
+1 HUSB @I44469464495@
+1 WIFE @I44469464580@
+1 CHIL @I44469464627@
+1 CHIL @I44469464608@
+0 @F19@ FAM
+1 HUSB @I44436301453@
+1 WIFE @I48575262905@
+1 CHIL @I48575263043@
+0 @F20@ FAM
+1 HUSB @I44436301965@
+1 WIFE @I44436302176@
+1 CHIL @I44418032094@
+1 CHIL @I44467000550@
+1 CHIL @I44469461587@
+1 CHIL @I44468290653@
+1 CHIL @I44469461337@
+1 CHIL @I44469461464@
+1 CHIL @I44469461393@
+0 @F21@ FAM
+1 HUSB @I44469462273@
+1 WIFE @I44469462023@
+1 CHIL @I44469462335@
+0 @F22@ FAM
+1 HUSB @I44469463811@
+1 WIFE @I44469464359@
+1 CHIL @I44469464495@
+1 CHIL @I44469464468@
+1 CHIL @I44469464443@
+0 @F23@ FAM
+1 HUSB @I44467516755@
+1 WIFE @I44468290127@
+1 CHIL @I44442728801@
+1 CHIL @I44468290164@
+0 @F24@ FAM
+1 HUSB @I44468290733@
+1 WIFE @I44468290766@
+1 CHIL @I44436301965@
+0 @F25@ FAM
+1 HUSB @I44469462335@
+1 WIFE @I44469462738@
+1 CHIL @I44469462843@
+1 CHIL @I44469462932@
+0 @F26@ FAM
+1 HUSB @I44469462843@
+1 WIFE @I48575261420@
+1 CHIL @I48575261564@
+0 @F27@ FAM
+1 HUSB @I44418031525@
+1 WIFE @I44418031904@
+1 CHIL @I44444879734@
+1 CHIL @I44436301453@
+1 CHIL @I44436301568@
+1 CHIL @I44418031524@
+1 CHIL @I44442726196@
+1 MARR
+2 DATE 5/7/1957
+2 PLAC Xiangfen, Shanxi, China
+2 NOTE married with my mth in mth's 18 years old
+0 @F28@ FAM
+1 HUSB @I44469463499@
+1 WIFE @I44469463729@
+1 CHIL @I44469463811@
+0 @F29@ FAM
+1 HUSB @I44468291772@
+1 WIFE @I44470225309@
+1 CHIL @I44469270500@
+1 CHIL @I44468292995@
+0 @F30@ FAM
+1 HUSB @I44470651679@
+1 WIFE @I44470651792@
+1 CHIL @I44418032133@
+0 @F31@ FAM
+1 HUSB @I44436300518@
+1 WIFE @I44436301349@
+1 CHIL @I44418031904@
+1 CHIL @I44444880716@
+1 CHIL @I44444880632@
+0 @F32@ FAM
+1 HUSB @I44469463851@
+1 WIFE @I44469464017@
+0 @F33@ FAM
+1 HUSB @I44469268896@
+1 WIFE @I44468293101@
+1 CHIL @I44469268973@
+0 @F34@ FAM
+1 HUSB @I44469270597@
+1 WIFE @I44469275740@
+1 CHIL @I44469276570@
+0 @F35@ FAM
+1 HUSB @I44469276764@
+1 WIFE @I44469275740@
+1 CHIL @I44469276664@
+1 CHIL @I44469276570@
+0 @F36@ FAM
+1 HUSB @I44469463639@
+1 WIFE @I44469463907@
+1 CHIL @I44469463851@
+0 @F37@ FAM
+1 HUSB @I44468299458@
+1 WIFE @I44468299506@
+1 CHIL @I44468298890@
+1 CHIL @I44468300054@
+1 CHIL @I44468299901@
+0 @F38@ FAM
+1 HUSB @I44469464048@
+1 WIFE @I44469464137@
+1 CHIL @I48575254536@
+1 CHIL @I44469464185@
+1 CHIL @I48575254823@
+1 CHIL @I44469464201@
+0 @F39@ FAM
+1 HUSB @I44444880716@
+1 WIFE @I44468291703@
+1 CHIL @I44469270597@
+1 CHIL @I44468291772@
+0 @F40@ FAM
+1 HUSB @I44444879734@
+1 WIFE @I44467000192@
+1 CHIL @I44466999787@
+1 CHIL @I44469271080@
+0 @F41@ FAM
+1 HUSB @I48575255080@
+1 WIFE @I48575254823@
+1 CHIL @I48575255670@
+0 @F42@ FAM
+1 HUSB @I44468299901@
+1 WIFE @I44469463415@
+1 CHIL @I44469463444@
+0 @F43@ FAM
+1 HUSB @I44468290029@
+1 CHIL @I44467516755@
+0 @F44@ FAM
+1 WIFE @I44469269029@
+1 CHIL @I44469269181@
+0 @F45@ FAM
+1 WIFE @I44469269610@
+1 CHIL @I44469269241@
+1 CHIL @I44469269181@
+0 @F46@ FAM
+1 HUSB @I44470651899@
+1 CHIL @I44470651679@
+0 @F47@ FAM
+1 HUSB @I44469461587@
+1 CHIL @I44469462618@
+0 @F48@ FAM
+1 HUSB @I44418031524@
+1 CHIL @I44436301888@
+0 @F49@ FAM
+1 HUSB @I44470592029@
+1 CHIL @I44470593267@
+1 CHIL @I44470593356@
+1 CHIL @I44436300518@
+0 @F50@ FAM
+1 HUSB @I44469463851@
+1 CHIL @I44469464048@
+0 @F51@ FAM
+1 HUSB @I44479856752@
+1 CHIL @I44436302176@
+0 @O1@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 4629311
+3 _WDTH 5184
+3 _HGHT 3456
+2 TITL IMG_5560
+1 _OID 0278941a-b104-4f9a-87a1-9a4fc0e08eee
+1 DATE 10 Apr 2010
+1 _DSCR IMG_5560
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-07-02 11:57:30.250
+1 _USER 5wt1lja7lHkS1OQ0wF/AUiKytJf0D25vYyHDmPYmpHGLWFddQ72I1+rhMXJIlbCcBG1f69yV1E5XhyBK60Au7w==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O2@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 61938
+3 _WDTH 506
+3 _HGHT 900
+2 TITL 4d3f4e2309f7905268b9a4650ff3d7ca7acbd567
+1 _OID 060fa26c-655e-46ac-9c2c-f380ef5ab4c5
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2016-02-26 17:58:03.713
+1 _USER T1HL80/UkcgEpL7W2wVO0RHdu3N85Lc16RwYqllcni4ff6LpQvmNGkGZm+I114dUgf9I6p+7lzSp8T7AP1inZw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O3@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 25002
+3 _WDTH 218
+3 _HGHT 293
+2 TITL shengrong zhi
+1 _OID 06e57d6f-9c81-49a9-9fcd-f1a5cc2c416f
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-14 20:04:22.417
+1 _USER /mRVcPACIB/oCaBIYitMUyR/VkOxMpngpnZo+hHYTmBH+qfNC/rA+DSlw6ki+QrKVG3pNqqZvRz+6o8WG+vhoQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O4@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 523068
+3 _WDTH 1638
+3 _HGHT 912
+2 TITL antie2010-02-15 13.59.00
+1 _OID 09af22c6-399b-4bfd-86e3-f82dff54e510
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-15 20:58:11.957
+1 _USER YGb7xgUJzEMNxXgvZGNtxe4NeELjUGqDagCkOWZNETQr/ER2s0ogt5EY5I02WtFllNRG43iUn7XJ6x84RdTS9g==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O5@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 171550
+3 _WDTH 798
+3 _HGHT 1038
+2 TITL IMG_568612
+1 _OID 14b30377-4166-450e-a4e3-36a67d6994ef
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-07-07 13:03:31.320
+1 _USER vWisusxTqi8KrSC7AcmnekMFYj1SayVbq351O0erlzMBJRl5UCQcAzUuOsnPFeHoITt9jM70YBIkzGTkmeXDzw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O6@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE png
+3 _SIZE 14832
+3 _WDTH 303
+3 _HGHT 264
+2 TITL hongjie
+1 _OID 14b487b5-5641-4b75-9608-33989434c8c3
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-15 20:52:54.100
+1 _USER Q1zt/ZaMR/HrjEz9hohOBEg/Ts2D+3YC6uCD1SMqB83vgfZP1+wtdvUWzHN4C81UnIuI3Z+NmpmYkqI1N0Is4A==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O7@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 17414
+3 _WDTH 183
+3 _HGHT 222
+2 TITL demao zhi
+1 _OID 15a1fb2b-9124-45df-aad2-3bb03997e1ce
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-14 19:34:33.733
+1 _USER xudiPlbwTI9yB7KvGDEqzlBuTKLYEgr4XuZ4hGvspvbgjyETIhTxokFBn8HKxO/D+gOrUis0Pq9ZfDIZgeDmOQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O8@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 1995976
+3 _WDTH 3264
+3 _HGHT 2448
+2 TITL WP_003404
+1 _OID 21189bf3-dc9e-4bfa-9f1d-7b94a5dd1eac
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-07-06 09:41:31.827
+1 _USER woCSOXjGZE9Z56tN8UEKGfNtGtSW23R8M2e7zV8PIKNvGO2gZJ7FVn0Pp5v0Oi58clh6WsvukayXTAnk1ZVLLg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O9@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 77210
+3 _WDTH 491
+3 _HGHT 460
+2 TITL Leyan2013-01-13 16.59.18 - leyan
+1 _OID 21cfb0f0-9c40-42d3-bd2f-02a70f9951ae
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-17 19:02:14.460
+1 _USER rviadn/4lYr+o55ZPTlYLU7UD8l4IOREY+2mSvTjcRludpl1Yr8ULs+06YwZG0rTgHMSK5nLsJ0jMgTNHeYaJg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O10@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 338910
+3 _WDTH 969
+3 _HGHT 1045
+2 TITL sanhong2010-02-19 12.56.08234
+1 _OID 221c8d37-e393-4099-b824-a7b19974df94
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-15 21:07:49.043
+1 _USER 9XWOYw6wkRXzrawcCCXKx+ous7Z2GqP7zPmrmmG2n2fJ/1cRtuZIX+S28fMtMNdO5+drhgJNB5eSJcZCqDLEHw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O11@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 136806
+3 _WDTH 632
+3 _HGHT 756
+2 TITL IMG_5685-dawei
+1 _OID 290cd6b8-a26f-4568-b2e5-318a51c156be
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-07-07 13:03:28.183
+1 _USER VSrdK7NQu/5wXfjaIO3IYWa0twUgtL1MlRThkrgIAqnCT15NGm6XDgu6zpEM34RIRwFJPS3DU6Q1Xc6Mjsquug==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O12@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 2215180
+3 _WDTH 3072
+3 _HGHT 2304
+2 TITL IMG_0410
+1 _OID 2b3e81d8-cf17-48b1-bc8f-91d5be48949e
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-07-06 09:47:07.397
+1 _USER /jts2yqG3sCe9pxOAoeUiUJldDMQ7aIiiYJvoUirGdqrGjLVw2jGvcn+S5/xX8KdpVl+JKTuOSBj78s2mlMYhA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O13@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE png
+3 _SIZE 396454
+3 _WDTH 603
+3 _HGHT 323
+2 TITL tinshun cui
+1 _OID 2d331ae4-01d6-4fc2-a643-cc5f7d18120f
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-14 18:52:21.647
+1 _USER Ub8RugusqFtx4ad4rGpy7AZDF9cQMUhhYgKPJC9Gjg8hpc+envlTpUWgpOwL5PR5cbn+4dFpNc+HXESrcpVmSQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O14@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 30677
+3 _WDTH 303
+3 _HGHT 264
+2 TITL xiaomei zhi
+1 _OID 2eaa984e-679b-4500-84d7-644e22aa0324
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-14 12:55:12.713
+1 _USER ps58fhX9LHskyykmFPjCfdVaHPFb/SBnxiFROemGb+uJXZp3U5LJSikRXBnknZ9QLibCE6Z5kT4yGIUO1xDFPg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O15@ OBJE
+1 FILE
+2 FORM
+3 TYPE story
+3 _MTYPE story
+3 _STYPE x-inline
+3 _SIZE 1617
+2 TITL one story
+1 _OID 3304d387-8f06-4d6f-a5b5-d428be636384
+1 DATE 6/7/2009
+1 PLAC unknow location
+1 _DSCR no description 
+1 _META <metadataxml><content><line>&lt;p&gt;&lt;span style="font-family: 'comic sans ms', sans-serif; font-size: medium;"&gt;This is one story.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</line><line>&lt;a id="sogou_vr_30000909_4" style="color: #741274; cursor: poin
+2 CONC ter; outline: 0px;" href="http://news.yahoo.com/high-tech-goods-lead-trade-growth-over-next-230750078--sector.html" target="_blank"&gt;High-&lt;span style="color: #cc0000;"&gt;tech&lt;/span&gt;&amp;nbsp;goods to lead trade growth over next 15 years
+2 CONC : HSBC - Yahoo&lt;/a&gt;</line><line>&lt;div style="margin: 0px; padding: 0px; zoom: 1; color: #333333; font-family: arial; font-size: 13px;"&gt;</line><line>&lt;div style="margin: 0px; padding: 0px;"&gt;</line><line>&lt;p style="margin: 0px; paddi
+2 CONC ng: 1px 0px; line-height: 20px; overflow: hidden;"&gt;&lt;span style="margin-right: 5px; font-size: 12px; : relative; : -1px; color: #16aee4;"&gt;&lt;strong&gt;[&lt;/strong&gt;&lt;span style="margin: 0px 2px;"&gt;图文&lt;/span&gt;&lt;strong&gt;]&lt;/
+2 CONC strong&gt;&lt;/span&gt;over the period. HSBC said much of the future increase in high-&lt;span style="color: #cc0000;"&gt;tech&lt;/span&gt;&amp;nbsp;trade would be driven by internationalization of supply chains, with parts for high-&lt;span style=
+2 CONC "color: #cc0000;"&gt;tech&lt;/span&gt;&amp;nbsp;products&amp;nbsp;&lt;span style="color: #cc0000;"&gt;criss&lt;/span&gt;crossing ...&lt;/p&gt;</line><line>&lt;div style="margin: 0px; padding: 0px; line-height: 22px; color: #666666; height: 22px;"&g
+2 CONC t;雅虎 - news.yahoo.com/h...&amp;nbsp;&lt;/div&gt;</line><line>&lt;/div&gt;</line><line>&lt;/div&gt;</line></content></metadataxml>
+1 _CREA 2015-07-06 09:20:48.280
+1 _USER aICu/8ditUX3gRiG6m24i/ifAlupuJOKreMS7GwtxruJSTruDkeDMDPiYVoWpmM8Vz3PtLwqXoat8279xVwOPA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O16@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 63475
+3 _WDTH 332
+3 _HGHT 532
+2 TITL IMG_0410-laoda
+1 _OID 3b72fcbb-5abf-4dd4-ba98-61aa2176933b
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-07-06 09:49:41.137
+1 _USER tzr1iizPGEmmi/KJtl7e/ZQP70DyKRlLCbq79DWWN8KSBm4yMnuXo1CiNYCk+6vexSQ+XQqzhFRWGLlyhax8zg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O17@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 78195
+3 _WDTH 487
+3 _HGHT 488
+2 TITL shixxx yang
+1 _OID 4193865f-d6f9-450f-b363-32619d254555
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-15 20:56:33.313
+1 _USER Y5RxMI0x1kF+3RwXU90y6NxRdiSiONXweuFxjz7Tl4TwFPJ9jbA2V7rO9iWSmWFvb7f9hBGL3csu/42zp1wYgA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O18@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 94760
+3 _WDTH 528
+3 _HGHT 936
+2 TITL demao 2 zhi
+1 _OID 44d61e7a-5ae2-47e5-a68a-9600eb0676eb
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-14 20:11:55.177
+1 _USER PueEsrBPEQ9DdY67G5DIbNBDbAFmbchxTMFf+u4jhR2X9pSrKv72UStCq5axmlDCiLu7/oK3bamvdcZ5SQhYsw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O19@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 113620
+3 _WDTH 494
+3 _HGHT 587
+2 TITL antieIMG_0431-xinminswife
+1 _OID 4648a7b8-850e-426a-899c-a19e8a921e2b
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-15 21:02:02.780
+1 _USER iHHf7/ELYp+26gfVH8/OmdItskn+nqnLez1aIdmXG1iajAvsv4v+KwHDb86ilQ0RNs6aEqbOhS5AzplDzri0bQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O20@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 7967175
+3 _WDTH 5184
+3 _HGHT 3456
+2 TITL IMG_5687
+1 _OID 473389fe-a68b-4c93-9563-00022b84eaff
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-07-07 13:07:55.553
+1 _USER fW0TVkd9IbgOuMJIzPOi032QY7CR1/w3avBl91P9KeTdnLh/gTY7QhKT4QaqUQyikLL++LkWz6k0EYt+lN3vQw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O21@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 22497
+3 _WDTH 179
+3 _HGHT 233
+2 TITL yonghui zhi
+1 _OID 4741d86d-39aa-4fc4-b408-e8382633104f
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-15 20:54:40.047
+1 _USER +kd+YwcQwbe7f3XCDFz78l3URNeznGxGG+rClZ6W83uzzAcA3Kc/N/N+6eX6kqFuxMgyKxJE53M94GEhK62KLw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O22@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 128691
+3 _WDTH 512
+3 _HGHT 692
+2 TITL jiuzhongIMG_0443
+1 _OID 4daa68d1-7bad-41ff-9b20-049ecb6fcfe4
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-15 21:05:27.883
+1 _USER uYdJmrPoewh8byY21j5cUlyMUEVK+RAme7VYHZe9NmNDjgSsN7A1H+BH1jVMt0kfwapWqnTSoA2ph4KAvPnKEg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O23@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 20336
+3 _WDTH 167
+3 _HGHT 295
+2 TITL cutegoal22
+1 _OID 514acf34-5150-4a2a-affb-7faca124e67e
+1 DATE 12/08/2015
+1 PLAC zhaoqing
+1 _DSCR Cute goal 22
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-12 12:58:37.987
+1 _USER JmXiDNU4mMeHH5YLDPDswWLQU9e9CtKTeTILM5ve8E4UxnXcrc1ekSoNwjZz28evOdfVDKJj5ugmSqHbHJFn9g==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O24@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 211302
+3 _WDTH 632
+3 _HGHT 756
+2 TITL ningningIMG_0546-ning
+1 _OID 535adc94-b8ae-4994-8d85-133e58f7c494
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-14 11:29:41.010
+1 _USER oO7Tp2XC6i4pT5+GdLNFddPEdM/GZ9rR0axawqa5RMPHzT320g+rxSx+Bhnb1+lhrI2QZaiPZLIuLxt85F3HKg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O25@ OBJE
+1 FILE
+2 FORM pdf
+3 TYPE story
+3 _MTYPE story
+3 _STYPE pdf
+3 _SIZE 699717
+2 TITL 大马“南洋”叙述中的台湾影响及其再现模式
+1 _OID 59af0e8b-24bc-4795-9025-fbc9a67d3761
+1 DATE 12/08/2015
+1 PLAC cnki.net
+1 _DSCR 大马“南洋”叙述中的台湾影响及其再现模式
+1 _META <metadataxml />
+1 _CREA 2015-08-12 13:07:28.620
+1 _USER qzvYLJ8fD3P0SbDRPD76ctyt2ReCl+Hwvhh40yRg5j41pvpY93mV9kbUfKqdTMg2FhPnu5o6rpmIxCIN09atPg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O26@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 474157
+3 _WDTH 1186
+3 _HGHT 1035
+2 TITL momIMG_0145
+1 _OID 61b597e1-303a-4486-b72d-8c3b6437cb90
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-14 18:49:02.480
+1 _USER fljTUdYiiBpTZ1YfSt+HJSy46Yfrv1gIrHQOCQ3LYBtz1kR98eFYRAiceBKSEkwfrwgogFbQbYPvHPSztAqSgQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O27@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE png
+3 _SIZE 1058406
+3 _WDTH 764
+3 _HGHT 650
+2 TITL demao
+1 _OID 61f331a2-d428-4924-9b56-fcb64a0c2e26
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-15 20:49:26.907
+1 _USER ZzwTc8ECOzDV9DhZxRBcFTf+PN7zQgadySQDA84V1ZCTEdK69Cjh3zuoi22Af6iMjM87X/jsLR2/Owupmp/IDQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O28@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 101613
+3 _WDTH 718
+3 _HGHT 538
+2 TITL WP_000461
+1 _OID 6358e471-4356-4602-a99e-16ad14e32b0a
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-07-02 11:55:59.193
+1 _USER vIGSX0gfwKAnCQ+jMUBeANXVgj8em0vl7c3paHzFcjQNMhLviysUJYPdJCApRk/DMZhYyN0bEdax7p02fh/vuQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O29@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 1037963
+3 _WDTH 1865
+3 _HGHT 2538
+2 TITL br2IMG_5202345
+1 _OID 65c28fe8-5d8e-4f66-ab05-34d187a2af3c
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-15 21:08:45.100
+1 _USER fEKklQ++y2MWhYvP7ZW9D47I+EaGA3wlczS5gtvD4pG153K7iBs9fYJ1xzNkHiJUa26bh1GVXNnH218kZoZ4ig==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O30@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 382225
+3 _WDTH 1270
+3 _HGHT 1513
+2 TITL IMG_5250234
+1 _OID 6b10a91c-075e-4087-b885-688b36375b27
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-07-07 08:11:45.143
+1 _USER +ktdj2aV1Z5/DC8r/p6tF6Qe1pB9+LAD52/RBhKqf1kykNuiHWHEvKE+sKZcIg1XPP43lA99oC0bgRYtcum/NQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O31@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 35544
+3 _WDTH 289
+3 _HGHT 395
+2 TITL hongjie zhi
+1 _OID 6c3e57f7-3e60-4840-94b2-dd705280af84
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-14 20:11:51.217
+1 _USER 87O13jnVpKW91O7QbJ+ap8Fuefud2vkuopq9ifTQ5CxG8krZjl66DSiObtF00Amhsndcufx0EbyBN99dkrP5bw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O32@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 587346
+3 _WDTH 2236
+3 _HGHT 1320
+2 TITL jiuzhong and wife2
+1 _OID 6c40b0ed-b496-4e25-a129-d09d49f629c6
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-17 19:05:25.640
+1 _USER Pk64+qfA0i2N33bl+WBAnpRVp5WxL7j2TpG6QsohkIk4xC9ECR1IUwPcyiOqNpZ5mRMO2/3KQJxkRS/wLCpJ2A==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O33@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 5866238
+3 _WDTH 5184
+3 _HGHT 3456
+2 TITL IMG_5703
+1 _OID 6cdcb43d-3407-4c9b-b770-6685f155afed
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-07-07 08:27:01.703
+1 _USER jGJoKdvKyobH0iaDYht2MHlIT8wNEbn+IdstQwRIxv758U+NozzksfTPgKf3sb4d1/4N7IrfNTATv3U5GNKM+A==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O34@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 153045
+3 _WDTH 529
+3 _HGHT 657
+2 TITL momIMG_0145-mom
+1 _OID 7388c9f4-a026-4c91-b867-8c7615bb4fc8
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-14 18:48:56.740
+1 _USER duO0i/TIU9jvKonVzoVkKWl3pCH9XUVGNuqBWl6hSuqa6z/TP6MEQP3hGwU/QKuf2LTtvFAA6OjVaLMY+maWLg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O35@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 117963
+3 _WDTH 527
+3 _HGHT 663
+2 TITL 2013-06-02 09.48.261231
+1 _OID 740eca27-0e42-40d7-a776-d7495ec812cf
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-13 11:57:53.927
+1 _USER Qrl4HCpyFuvvQ6rSAq5GMoqw1SD7s/DJy8IX+tQpKtd2SAQWjskFlSE4SO55eej2M4ertBBZ59IZe90jb3Nenw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O36@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 24467
+3 _WDTH 155
+3 _HGHT 202
+2 TITL yongyuan zhi
+1 _OID 7608ae08-2654-426e-96f2-4d801818d50e
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-15 20:55:13.847
+1 _USER sCrvpGTVkL8rdrkVwEa2+CW2/qIyYWCOjX+yVQTdq6idkqgXpXChgKbU1kQjHqGT9vrO6PvQZvsFPWVXaWQgdQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O37@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 218473
+3 _WDTH 822
+3 _HGHT 930
+2 TITL leyan07032011398wer
+1 _OID 7627cb04-f98b-4c05-af6d-af11c285eac0
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-17 19:02:01.223
+1 _USER /V+glRgegODTRpm1mpud2naz5FwIVmkrgiov/HQ6Fj97rQqp8gDXsM0CYyEajKHdSK5Xops85Rb6eQPnxpODfQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O38@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 5835620
+3 _WDTH 5184
+3 _HGHT 3456
+2 TITL IMG_5555
+1 _OID 76be2fcc-b466-4e5f-9763-ec6a3e0ac77d
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-07-02 12:09:07.927
+1 _USER 3WiOcRt3iDnSMBcvPKpDsYTnSGLk0m53tkJii8lz3bTW/XnBHRRt+6gqR4LNeuqpxC+fPxjNhw2gvumJwHdOZA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O39@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 105450
+3 _WDTH 438
+3 _HGHT 573
+2 TITL Guofeng_WP_00171945
+1 _OID 780cf87c-f78b-49aa-8fae-89904ed69ab7
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-13 11:55:10.483
+1 _USER bGrbiM9R/qqpRGAqLWb2ETEPFj1FB2a11E9qKmGV41XrUkQa+fZ/SgYUA+RsAnqJmZRUG+vPXH7w2Okr7v73/A==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O40@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 2055371
+3 _WDTH 2614
+3 _HGHT 2302
+2 TITL br4IMG_0755-8
+1 _OID 7ebfad53-7008-4a24-b7d6-b93b7558ae65
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-14 11:30:04.607
+1 _USER g4vq/XSkc0/h1oEQ2n+hNm50me5VHKL3aDFjrhlXKRJv0L/lTzIdRQA3sFzOUMbA9Aj5/IkB6iPoRv7/haPC2g==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O41@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 86984
+3 _WDTH 416
+3 _HGHT 534
+2 TITL yongshou zhi
+1 _OID 7ef40955-5e8c-44d6-aa6b-289e3cc67df3
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-15 20:55:48.057
+1 _USER qHmcO+CxyqoYW3aItaIViNNf5jKfttKPvteOcjvLv2QTmzEADLMkd9qgN06DQzkQZ6vrhBlJ/zMuYVF5JzbZ/A==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O42@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 472804
+3 _WDTH 1064
+3 _HGHT 1152
+2 TITL momIMG_0706123
+1 _OID 7f21e344-77f6-4fe4-880b-7c2a2522ffa4
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-14 18:48:53.410
+1 _USER oIC8B1zttg1OCBIRCcIe5G58zcyzOqOXV7tDWj+bXu/ClQGMS4ryoQOxv4Jra1O9C+y/kzaXUnLCnMnPaQu/Sw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O43@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 28879
+3 _WDTH 218
+3 _HGHT 293
+2 TITL shengfu zhi
+1 _OID 85489bc0-ae10-4dbc-a2c4-29953aab842b
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-14 20:05:24.763
+1 _USER VcWVjKdyFaMx7Sq3u3EShx1+XJ4acshujR2MThDfFCFfGkiknJOeoj554Hmyl9tde7HcI6Gi88o5MqVV4LX5jg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O44@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 72293
+3 _WDTH 416
+3 _HGHT 664
+2 TITL shixxx guo
+1 _OID 862bdcb2-a92d-4c2f-9d55-4194cf8de17c
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-14 20:09:03.660
+1 _USER Tx6dUcgDv62ETf39KQKRSoPZHS52vUH1SRN7vmRE3GzC1oFPwVh4yxt7ExYmvWqdTwlzCy0tHZ/DaZXCtfCr/w==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O45@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 33555
+3 _WDTH 357
+3 _HGHT 516
+2 TITL Hongjing
+1 _OID 8650431c-6f06-4d0f-80ad-54b010a8f52a
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-15 20:53:34.353
+1 _USER aP+FswhKQ/z1NjQU6NHo2e/mVVqrv/LVtMgBcI4W/K1NX4BBqFsowGVi1zwXWGG7XvdgJUWimBoDawpP9K160g==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O46@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 394054
+3 _WDTH 1121
+3 _HGHT 1319
+2 TITL IMG_5703-cao2
+1 _OID 8b3235a8-0003-438f-aabf-e3e1f85bfa4e
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-07-07 08:19:43.763
+1 _USER DeGXUrX7jehluih91w0RB7c0+HuJ6Y6GZ1bIGd+bg1t5lovTZHdMiRGc0ZQ+4/JNVO+wDrmmssu0cpcTPXMNPA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O47@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 179194
+3 _WDTH 632
+3 _HGHT 756
+2 TITL momIMG_0701-mom
+1 _OID 8c2ba918-6f07-412c-bb41-3e854244bccd
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-14 18:48:53.140
+1 _USER qgn1HP+HxDaddxfirlHsLvzOQMakK3I4r7t4ae8YXS+RRYh2VSiykavqwIX0h2A8LFp95AJTCngA+3QhL1f/sQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O48@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 43511
+3 _WDTH 361
+3 _HGHT 350
+2 TITL baofengwife
+1 _OID 8f6283d1-b354-486a-b417-ac7a6f3620db
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-14 19:32:46.887
+1 _USER D68c/1Sg30EX+SFUZgyhUU0ruK0JqYDXS6YMWeDSzMiVRp1IeA92IvQ8Yx3LhSX8YdE+duMP0lQWvVXa9gxulw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O49@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 523068
+3 _WDTH 1638
+3 _HGHT 912
+2 TITL antie2010-02-15 13.59.00
+1 _OID 95e2d405-6dd9-40e5-8fd5-157fb2419a67
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-15 21:02:08.080
+1 _USER 9LEyE5xlkRNSeqdrgdwayV3aIEcP6tLGDTKqcz4dG3kdNC0deXIrvf1Xf1htAzihFdGaHW3MnZiaBdJfg/uLnA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O50@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 1185473
+3 _WDTH 2304
+3 _HGHT 3072
+2 TITL IMG_0412
+1 _OID 973a9caa-1585-4d90-81ab-0d36694ffeb2
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-07-02 12:10:51.073
+1 _USER a8de2YrePNG7aatgJ4hZx39Qt7uThwFisKc/jkoKXkTUw+mcG/7sSbq0Xg2b7ar5zELH66PiAScQh5yhE87Qfw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O51@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 234702
+3 _WDTH 744
+3 _HGHT 897
+2 TITL Dalv zhang
+1 _OID 98e1bf2e-0323-4c5f-b47c-178b346005fd
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-15 20:52:08.130
+1 _USER suuFhVvvqyf3a/IauCdzkXUOwPPhYFrlxYDS2OyvhCoP2h6QCeTbgePT3pMR6HGZ2/aIoqj8LxHaSRwsNSpfvg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O52@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 345999
+3 _WDTH 886
+3 _HGHT 1148
+2 TITL littlening2013-06-02 09.46.12324
+1 _OID 992d4aae-302a-4fc5-948e-9d2a0dcb7200
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-14 11:33:46.307
+1 _USER DwxCQHpSCYN5TMaxG9AN4uel2ut7BWSLFx5zepwmEQfV2Bi3DX2cQZ0XdW8EjsAZvWtarR45wmBKjdz0eDuYVQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O53@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 25354
+3 _WDTH 303
+3 _HGHT 264
+2 TITL dajie zhi
+1 _OID 9a264c0b-54cc-41f2-9b8b-3de02f6169c4
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-14 18:51:06.080
+1 _USER 0Und0eVhzxL/AhQx7//WlTTVk2n1T6iYz2at7W69J1N4b5rxxIApWNUHuQwh72n8al8AsJn9cWlPKzStXMVDLg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O54@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 327626
+3 _WDTH 886
+3 _HGHT 1148
+2 TITL ningning2013-06-02 ningning09.48.24-34
+1 _OID 9ad5fe9a-9c68-41e8-a5d0-e8505a4f3814
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-14 11:29:41.270
+1 _USER 9qPaxUn3DEJZWjRj4j4YNWu8YmkNX854XuSRpmAJa2A62FgBQudg4DiJNCoBAZLzcl3NlA/S4S+EXvfwWCi3Hw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O55@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 5170679
+3 _WDTH 5184
+3 _HGHT 3456
+2 TITL IMG_5698
+1 _OID 9ce8c816-e488-4dea-9ecf-115a9598001f
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-07-07 13:06:11.013
+1 _USER PVnB69fOfStjbGo5e/Gzea5m9SMvQ+i+jQvmuXTpYUxNwpw2YzsACWoYAaUAt9wGls1t3d0UpVDyctLIALrCmA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O56@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 1521652
+3 _WDTH 3264
+3 _HGHT 2448
+2 TITL WP_003379
+1 _OID 9daa2280-350b-4186-9304-9f0713744182
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-07-06 09:39:47.643
+1 _USER /J0BLpu4nBPVGOJz9i3uFON4E60EwhvcuoSng2rHkM0RWfHrx9R4q1iiJ45QF3CO246g1dQqEbVc0UW1kgQBKA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O57@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 287734
+3 _WDTH 822
+3 _HGHT 930
+2 TITL momIMG_0326wer
+1 _OID 9e7a5a0c-a738-4907-9ee5-116f0031ab57
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-14 18:48:57.330
+1 _USER OzmlQuDYK/xma4Cq4VpTw/IJGSV2BPEH6cIrzoXVnBsRYmweM3poNhTCoMb8hcdPHSY0VWGnN50ak58goirK6A==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O58@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 32643
+3 _WDTH 217
+3 _HGHT 299
+2 TITL 2wa zhi
+1 _OID 9e8745d2-f00f-4ab3-8b18-b9f8c768b601
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-15 21:28:22.967
+1 _USER JBnyjcj68hrGmBdnqqHAPbp6FoDdHd9p7JyASjYDbugCriP7cVkn5zsTaKwsRFv0D4Jng6wHXWo6EsrzORXNyQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O59@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 158453
+3 _WDTH 652
+3 _HGHT 828
+2 TITL leyan27022011352-leyan
+1 _OID 9ec4b7ce-c715-4449-ab65-c3e2b7f746c1
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-17 19:01:38.527
+1 _USER fhZw1V1RRwqR/Bcv3IXJNllMGww+gNNtZr+yzj4i+TBUzxx7BSV0YqQWyG/IOw78INT9CilxD4mLgbOHMckLnA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O60@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 32288
+3 _WDTH 187
+3 _HGHT 276
+2 TITL cute-goal1
+1 _OID a13d3660-c39a-4c35-ad0c-9ba7700b7a24
+1 DATE 12/08/2015
+1 PLAC dongguan
+1 _DSCR Cute goal 11
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-12 12:58:44.367
+1 _USER 8xy2DKufiuNWGtlncNRckCOIXIF4mEsF4QUSNFIJkPkGFuOh6b15gblEpYLlPRFzSPUU6OCSlLSKNkSeWc+hVg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O61@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 280482
+3 _WDTH 891
+3 _HGHT 1168
+2 TITL leyanDSC_2417.39CF45
+1 _OID a538b6cc-90f5-402e-b378-a2f5d53d372d
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-17 19:02:23.140
+1 _USER VhzVFTNDN0dhXFrsm6lD3ksHeSQhPfKuO2z1IMc0/G09QhPB3f+F/rv5ofacRfHtNvLPwfRt8HhiPAY1zWwnTw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O62@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 349613
+3 _WDTH 1017
+3 _HGHT 1237
+2 TITL littleningIMG_0397-xiaoning
+1 _OID aa6167aa-6c61-4438-be72-0a9f18cb7bbe
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-14 11:33:41.163
+1 _USER zDYJCkZQKZP/gCBFmNn3c/4dQt89+A4h6UJ8nzE9B68SfXpPZgdDI+ZDAeUtGBit9B6woi9roOL+uEvKyRFrKg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O63@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 267257
+3 _WDTH 834
+3 _HGHT 800
+2 TITL uncle2014-02-06_14-54-40_31D8B6
+1 _OID ac5cec44-1110-468a-a0f7-a586b3392905
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-15 21:06:25.963
+1 _USER uirC5Fi8OMmDQFQs4f5fGm7rSrpZAkMzWZjLTcjxiC+nrCEbBXA2GBIdYMcp+pgvvi5PmkrF6nbZnljlvkBqyw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O64@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE png
+3 _SIZE 1058406
+3 _WDTH 764
+3 _HGHT 650
+2 TITL demao
+1 _OID b366cbe6-9311-47b9-948b-f8ceab1c0da4
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-15 20:47:55.617
+1 _USER G7m0eTRVLh9i8DGM+pzCzIAyI2ly0vFbnm30+HXDnJcpmONeE7eav9wkTjYi3BGrBFkx1qpsYM30c3/THa7AHg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O65@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 5466843
+3 _WDTH 5184
+3 _HGHT 3456
+2 TITL IMG_5665
+1 _OID b6f459f4-59a1-4988-aac1-8cbc64424cc6
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-07-02 11:57:13.237
+1 _USER qZ3u6naHHZu5hSweDFzMxZKbPrmFmFnT2c6ng1CBrdPcMxp+rUkVnX/5srkbw1C1QigkodYakkI69VXG1woSMg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O66@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 4613836
+3 _WDTH 5184
+3 _HGHT 3456
+2 TITL IMG_5263
+1 _OID b7493563-3cb6-4d09-9c73-2bf9966e9933
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-07-02 12:10:48.997
+1 _USER KN/oSz7x5/PBUSL3W6Cneeg4PiO3TPAQttrhtO3bEZpNjdrGLpKDMS85LfNKkHaZbDIiJWympQYVLWHRkpcJmQ==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O67@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 1317558
+3 _WDTH 3006
+3 _HGHT 1382
+2 TITL yunlong2013-06-02 09.48.24
+1 _OID c02d89a6-5d83-4f05-b883-8c0287d028bd
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-13 12:27:50.970
+1 _USER 0ncDhxT2HyacBgB0iKYqhTgTc1qNEIBo2D8yuYWRTnYFqrtIvBSFvB1dLYTcjWvlv3d8x53Y1djrR9A+UdnkFA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O68@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 5109975
+3 _WDTH 5184
+3 _HGHT 3456
+2 TITL IMG_5270
+1 _OID c19875b1-87d4-4998-98a6-4b72ff7858a8
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-07-02 12:09:08.890
+1 _USER HsOIyXKeuIl85B9cB2MI1e28ZtD267cztmVs/Ta4bb5HSNqon3Z4QY/lkcb1wSvZ/0pLH8U3+qKvsaQf4gYgLg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O69@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 45167
+3 _WDTH 500
+3 _HGHT 375
+2 TITL twogoal
+1 _OID c968f0ef-9177-46b8-b8fa-2a0d87f674a7
+1 DATE 12/8/2015
+1 PLAC huizhou
+1 _DSCR two goal
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-12 12:58:38.920
+1 _USER yRWeCZPTssFf4GVw8ShkMXCFxKEXCV4r3jNmVIdc0JHxI4rFkS3HNfZ0MJh94pjszahq+ID4NriHlmZdwKjruw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O70@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 30677
+3 _WDTH 303
+3 _HGHT 264
+2 TITL xiaomei zhi
+1 _OID d0e23f5e-e522-4806-900f-38fa2eec8866
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-14 12:54:48.933
+1 _USER SfqwXGcUpPS85XCTK78AeQJQf/z51q1yVfS9q9ftWxg9c/yozG4ifszvdx+dglC9s3tj67DZubFnMdbboZrCjg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O71@ OBJE
+1 FILE
+2 FORM pdf
+3 TYPE story
+3 _MTYPE story
+3 _STYPE pdf
+3 _SIZE 1356225
+2 TITL 家谱元数据标准规范建设概述磁
+1 _OID d34440a0-ba4b-46d2-864b-42120fa21f1d
+1 _META <metadataxml />
+1 _CREA 2015-08-15 21:45:03.477
+1 _USER M4dPTycmh2dbdAbLgWCldYxWs6KhAHrZlS2BaW2cEmDKIE7ESFQ0oBlOhM6y88jHjQuczMiy4Iyq9NBF2OrzJw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O72@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 128691
+3 _WDTH 512
+3 _HGHT 692
+2 TITL jiuzhongIMG_0443
+1 _OID d5f1be04-9967-47b0-ab9e-e7b61bc6775a
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-17 19:04:22.677
+1 _USER xFU+KGcLnXrSxcW7uYgxwPMpounPAmuBLoucqGaocEmTgZSMtdb6mha14BVi8oimYsxrpj0mXL4tw6D8YL7wqw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O73@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 5482682
+3 _WDTH 5184
+3 _HGHT 3456
+2 TITL IMG_5251
+1 _OID d95985dd-2d99-4214-9fe8-b9bd38af9c72
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-07-02 12:10:31.930
+1 _USER wcJde+ciNBVcq/bTR+2qjvafCWJfzpyUEEzcVf0mAd/17AcMcYHLgCMWzIOV7PpmPkeRiehJeTDiA9rQAXd8Tw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O74@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 499591
+3 _WDTH 2303
+3 _HGHT 1321
+2 TITL jiuzhong and wife
+1 _OID d9e0bae5-e943-4632-b185-1bdf52da994b
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-17 19:06:15.983
+1 _USER W5Pk9OopXQ/PIolSi/hZxlUjkoiTrnmCpL/hDbWyvRAVUJzJ151JZJFRtHlSoLMrr+JE7EzbWTbGz0FtN+cM9g==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O75@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 101912
+3 _WDTH 672
+3 _HGHT 745
+2 TITL baofeng
+1 _OID dbd96136-0f70-4681-9d4b-37928420969a
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-14 19:29:59.953
+1 _USER obV1SXhR7rE8C+MPnMNaKZE/CaybzhySxe0VpKM1cgHTIhn5zDIzxGSycImv68GIAadNim8yp24kTDaFZxidUw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 @O76@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 184532
+3 _WDTH 798
+3 _HGHT 1038
+2 TITL littleningIMG_5616213
+1 _OID e29e86c9-93a5-471a-8636-d9d584a60833
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-14 11:33:38.263
+1 _USER i9E3tH0zuHWc8Zqpjjcrsjp3MDHZindvZuqBgnIcWX4MExxRun9bRvdxexJU9UHmvmPWLf2Vk3YjKFdNvzusRA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O77@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 5866238
+3 _WDTH 5184
+3 _HGHT 3456
+2 TITL IMG_5703
+1 _OID e3ec5f4b-5970-4b08-9a46-4efe0c61f6ba
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-07-07 13:06:21.250
+1 _USER h8TZmZQWxej+uRyln2MeLGKYEVlwTpeq7SyFsFeToV9XWtUWvRYbJVB0mw6Y3f5H0HJNUSSD5equUGyJ/CThNw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O78@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 982277
+3 _WDTH 1482
+3 _HGHT 1871
+2 TITL leyanIMG_0498
+1 _OID eb04830c-e1a1-4c4d-9351-c1e536ec3fb5
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-14 11:29:57.557
+1 _USER 3PxtURibetOQZ/00ELYgXDayMNgY6khxxTQq3lM4BAotigoJGArPeAcbVbdZnSVTGPNHG0etGr78El7o3ChSww==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O79@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 8573080
+3 _WDTH 5184
+3 _HGHT 3456
+2 TITL IMG_5685
+1 _OID eb5609ff-6c4b-4427-81cd-e6b47f263320
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-07-07 13:07:49.083
+1 _USER gQqN+sK7d82eYVeX3VvMipTrgikRuUnfsYYpExtluZXm82rV9cOh9K2KHS/WTLrk2/9MyYr75CeYMPP6xKMbUg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O80@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 260595
+3 _WDTH 894
+3 _HGHT 1171
+2 TITL IMG_5706-sis
+1 _OID f1fc6f2c-d45c-465d-bbd5-b6a1ef5624ee
+1 DATE 10/10/2013
+1 PLAC xiangfen
+1 _DSCR dongcai
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-07-07 08:12:52.970
+1 _USER zXAWJdoYhqp7oADfHOcR70dpHruDAjcFVblVVNPX5SEoM4BUTgkcHi6A5Iz/KTbrXEPXlEEZyjOE2QW8oduupw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O81@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 121502
+3 _WDTH 491
+3 _HGHT 587
+2 TITL uncleIMG_0431-xinmin
+1 _OID f558208c-13ba-48ef-b855-b583083a90e5
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-15 20:58:09.793
+1 _USER 76AC/dUQG5JPCP8c2cu1Mwl4/D8PvaKrIGa2sUZfOmcM3CTLZqpxQdBhXTIl5qfgIOmhGA+l+sOOt0H0ED6RDg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O82@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 2498152
+3 _WDTH 3762
+3 _HGHT 3017
+2 TITL IMG_5706-1
+1 _OID f5f214db-e470-4a40-a740-b418eb20d91c
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-07-07 08:15:32.233
+1 _USER xqlHx1l5twFDRuTlnnAYMA78GDeZjzz3swgfCgCDiBL7AA9VCrnDSuSig4kyNQdrTn1/pluoU/VEcBexa1QN5g==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O83@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 137069
+3 _WDTH 507
+3 _HGHT 660
+2 TITL WP_003378-92342
+1 _OID f75ac3f8-e14e-48a7-9157-23deb5febc02
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-08-13 11:55:15.200
+1 _USER pxSaiE7p2d9QgW4wZwgLIBKKm3XLZ9axL0lpd4O1JEn63QsTNfBY4SIBZY8IzL+HQpdV7NYLWcd0fVfQZjzMsg==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O84@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 97082
+3 _WDTH 718
+3 _HGHT 538
+2 TITL WP_000463
+1 _OID f80925ce-92ce-4dad-85e3-47c1cd440707
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2015-07-02 11:56:02.343
+1 _USER f9dW8TTgmP9IJbE5MeaNIr2w0sS5VawITUCj+6ZsaArCgWwPkR6UUd19v+fmzR1/YrNGTkj60UOlbzfRvy/xog==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O85@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 93654
+3 _WDTH 490
+3 _HGHT 367
+2 TITL 001wi8owgy6EXHvfJfQ62&690
+1 _OID f9203ab1-30b9-4e1a-aa8e-202f1a730d6c
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2016-02-26 18:03:11.487
+1 _USER duvPzT4eD38diMBkAcZkY1t7NzQogfT9Nok2KVKEdLuO0HIAxg9dY8qiZXMUmt7EasIDd1fqlNNiJHW9t2relw==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL N
+0 TRLR

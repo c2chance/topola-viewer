@@ -1,7 +1,7 @@
 import 'canvas-toBlob';
 import {detect} from 'detect-browser';
 import {createRoot} from 'react-dom/client';
-import {IntlProvider} from 'react-intl';
+import {IntlProvider} from 'react-intl'; // internationalization
 import {HashRouter as Router} from 'react-router';
 import 'semantic-ui-css/semantic.min.css';
 import {App} from './app';
